@@ -31,8 +31,8 @@ The site features a full-screen hero section with dynamic video playback, a bent
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/rankedzone.git
-cd rankedzone
+git clone https://github.com/EldridgeJr/RankedZone.git
+cd RankedZone
 npm install
 ```
 
